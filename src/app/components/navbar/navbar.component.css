@@ -1,0 +1,6 @@
+li a{
+    color:rgb(168, 163, 163)
+}
+.active {
+    color: white !important;
+}
